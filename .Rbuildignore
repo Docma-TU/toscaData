@@ -1,0 +1,7 @@
+.gitignore
+README.md
+.travis.yml
+(.*?).R2
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
